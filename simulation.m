@@ -1,11 +1,10 @@
-disp('This is the first version of the code')
-% Let's multiply two matrices together
+disp('The version we will send to mike')
+% Create two uniformly distributed matrices
 a = rand(10);
 b = rand(10);
+% Matrix-Matrix multiply
 c = a*b;
-
-% Fixed the broken thing.  MATLAB is case sensitive and I had a large C
-% instead of a small c
+% The asnwer we want
 d = c + 1;
 
 
