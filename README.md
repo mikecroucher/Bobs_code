@@ -8,6 +8,6 @@ A trivial GitHub repository to show how life is better when you embrace version 
 
 In MATLAB, navigate to this directory and yype the command 
 
-`simulation' 
+`simulation` 
 
 The magic will happen!
