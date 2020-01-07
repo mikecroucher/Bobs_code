@@ -6,7 +6,7 @@ A trivial GitHub repository to show how life is better when you embrace version 
 
 ## Running the simulation 
 
-In MATLAB, navigate to this directory and yype the command 
+In MATLAB, navigate to this directory and type the command 
 
 `simulation` 
 
